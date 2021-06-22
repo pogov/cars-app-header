@@ -1,0 +1,11 @@
+.searchbar_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    .text_field {
+        margin-left: 10px;
+        width: 30vw;
+    }
+}
